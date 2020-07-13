@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/scss/index.scss"],"names":[],"mappings":"AACA,KACE","file":"scss.cf39ca77.css","sourceRoot":"..","sourcesContent":["$color: #000000;\nbody{\n  color: $color;\n  \n}"]}
